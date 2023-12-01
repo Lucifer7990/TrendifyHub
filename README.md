@@ -1,2 +1,3 @@
 # TrendifyHub
-Our eCommerce website project aims to provide a user-friendly platform for diverse products. We prioritize a great user experience, secure payments, and efficient shipping. With a dedicated team and a set budget, we plan to launch the site soon, offering a competitive online shopping destination.
+	I developed a dynamic and responsive PHP-based e-commerce website, showcasing strong programming and web development skills. Implemented Admin page, product page, cart, checkout form .Resulted in an engaging and user-friendly online shopping experience, contributing to increased customer satisfaction and business growth.
+
